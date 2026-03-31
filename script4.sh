@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 4: Log File Analyzer
-# Author: Charvi Yadav 
+# Author: Jay Modha 
 # Usage: ./script4.sh /var/log/syslog
 
 LOGFILE=$1
