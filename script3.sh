@@ -1,7 +1,7 @@
 #!/bin/bash
 
 # Script 3: Disk and Permission Auditor
-# Author: Charvi Yadav 
+# Author: Jay Modha 
 
 # List of important directories
 DIRS=("/etc" "/var/log" "/home" "/usr/bin" "/tmp")
