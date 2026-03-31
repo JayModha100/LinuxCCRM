@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Charvi Yadav 
+# Author: Jay Modha 
 # Course: Open Source Software
 
 # --- Variables ---
-STUDENT_NAME="Charvi Yadav "
+STUDENT_NAME="Jay Modha"
 
 # --- System Info ---
 KERNEL=$(uname -r)
